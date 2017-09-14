@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
-  template: '<h1>Skelator Project</h1>'
+  template: '<h1>Skelaton Project</h1>'
 })
 
 export class AppComponent {}
